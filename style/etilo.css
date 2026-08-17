@@ -171,6 +171,11 @@ header {
     color: #6c63ff;
     font-weight: bold;
 }
+.foto img{
+    border-radius: 100%;
+    width: 100%;
+    height: 100%;
+}
 
 
 /* SEÇÕES */
